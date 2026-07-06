@@ -18,10 +18,9 @@ Course: BSIT
 
 Section: SD 2C
 
-
 Member Management Module
-Features
 
+Features
 - Register New Member
 
 - Update Member Information
@@ -29,4 +28,5 @@ Features
 - Delete Member Record
 
 - Search Member
+
 
